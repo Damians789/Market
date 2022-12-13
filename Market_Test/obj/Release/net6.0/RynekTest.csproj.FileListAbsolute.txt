@@ -1,0 +1,6 @@
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab4\Rynek\Rynek\RynekTest\bin\Release\net6.0\CoverletSourceRootsMapping
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab4\Rynek\Rynek\RynekTest\obj\Release\net6.0\RynekTest.csproj.AssemblyReference.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab4\Rynek\Rynek\RynekTest\obj\Release\net6.0\RynekTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab4\Rynek\Rynek\RynekTest\obj\Release\net6.0\RynekTest.AssemblyInfoInputs.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab4\Rynek\Rynek\RynekTest\obj\Release\net6.0\RynekTest.AssemblyInfo.cs
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab4\Rynek\Rynek\RynekTest\obj\Release\net6.0\RynekTest.csproj.CoreCompileInputs.cache
